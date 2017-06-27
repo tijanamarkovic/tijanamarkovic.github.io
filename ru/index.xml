@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tijana Marković</title>
+    <link>http://tijanamarkovic.com/</link>
+    <description>Recent content on Tijana Marković</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tijanamarkovic.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://tijanamarkovic.com/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tijanamarkovic.com/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://tijanamarkovic.com/blog/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tijanamarkovic.com/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 6</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-6/</link>
+      <pubDate>Fri, 23 Jun 2017 11:38:47 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 4</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-4/</link>
+      <pubDate>Fri, 23 Jun 2017 11:38:44 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 3</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-3/</link>
+      <pubDate>Fri, 23 Jun 2017 11:38:40 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 2</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-2/</link>
+      <pubDate>Fri, 23 Jun 2017 11:38:32 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Салаш</title>
+      <link>http://tijanamarkovic.com/film/ba%C4%87in-sala%C5%A1/</link>
+      <pubDate>Sun, 18 Jun 2017 20:13:23 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/film/ba%C4%87in-sala%C5%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Две женщины и один темп</title>
+      <link>http://tijanamarkovic.com/film/dve-%C5%BEene-i-jedan-tempo/</link>
+      <pubDate>Sun, 18 Jun 2017 20:13:11 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/film/dve-%C5%BEene-i-jedan-tempo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сдвинуться с места</title>
+      <link>http://tijanamarkovic.com/film/pomeri-se-s-mesta/</link>
+      <pubDate>Sun, 18 Jun 2017 20:12:53 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/film/pomeri-se-s-mesta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Европа, увы</title>
+      <link>http://tijanamarkovic.com/film/evropa-bre/</link>
+      <pubDate>Sun, 18 Jun 2017 20:12:42 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/film/evropa-bre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Отдел</title>
+      <link>http://tijanamarkovic.com/film/odeljenje/</link>
+      <pubDate>Sun, 18 Jun 2017 20:12:21 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/film/odeljenje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Военная академия</title>
+      <link>http://tijanamarkovic.com/film/vojna-akademija/</link>
+      <pubDate>Sun, 18 Jun 2017 20:12:09 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/film/vojna-akademija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Blue Bird (Plava ptica)</title>
+      <link>http://tijanamarkovic.com/theatre/plava-ptica/</link>
+      <pubDate>Sun, 18 Jun 2017 19:38:54 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/plava-ptica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Реконструкция</title>
+      <link>http://tijanamarkovic.com/theatre/rekonstrukcija/</link>
+      <pubDate>Sun, 18 Jun 2017 19:38:44 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/rekonstrukcija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Богоявленская ночь</title>
+      <link>http://tijanamarkovic.com/theatre/bogojavljenska-no%C4%87/</link>
+      <pubDate>Sun, 18 Jun 2017 19:38:32 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/bogojavljenska-no%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Путь развития Боры Шнайдера</title>
+      <link>http://tijanamarkovic.com/theatre/razvojni-put-bore-%C5%A1najdera/</link>
+      <pubDate>Sun, 18 Jun 2017 19:37:45 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/razvojni-put-bore-%C5%A1najdera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Смерть Ивана Ильича</title>
+      <link>http://tijanamarkovic.com/theatre/smrt-ivana-ilji%C4%8Da/</link>
+      <pubDate>Sun, 18 Jun 2017 19:37:01 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/smrt-ivana-ilji%C4%8Da/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Уеж</title>
+      <link>http://tijanamarkovic.com/theatre/uje%C5%BE/</link>
+      <pubDate>Sun, 18 Jun 2017 19:36:43 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/uje%C5%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Трёхгрошовая опера</title>
+      <link>http://tijanamarkovic.com/theatre/opera-za-tri-gro%C5%A1a/</link>
+      <pubDate>Sun, 18 Jun 2017 19:36:28 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/opera-za-tri-gro%C5%A1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Королевы</title>
+      <link>http://tijanamarkovic.com/theatre/kraljice/</link>
+      <pubDate>Sun, 18 Jun 2017 19:36:13 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/kraljice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Чайка</title>
+      <link>http://tijanamarkovic.com/theatre/galeb/</link>
+      <pubDate>Sun, 18 Jun 2017 19:36:01 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/galeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road</title>
+      <link>http://tijanamarkovic.com/theatre/road/</link>
+      <pubDate>Sun, 18 Jun 2017 19:35:54 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сёстры Карамазовы</title>
+      <link>http://tijanamarkovic.com/theatre/sestre-karamazove/</link>
+      <pubDate>Sun, 18 Jun 2017 19:35:48 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/sestre-karamazove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ситуации или грехи молодой Иконии</title>
+      <link>http://tijanamarkovic.com/theatre/situacije-ili-gresi-mlade-ikonije/</link>
+      <pubDate>Sun, 18 Jun 2017 19:35:32 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/situacije-ili-gresi-mlade-ikonije/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Открытое море</title>
+      <link>http://tijanamarkovic.com/theatre/pu%C4%8Dina/</link>
+      <pubDate>Sun, 18 Jun 2017 19:35:04 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/pu%C4%8Dina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Женитьба</title>
+      <link>http://tijanamarkovic.com/theatre/%C5%BEenidba/</link>
+      <pubDate>Sun, 18 Jun 2017 19:34:54 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/%C5%BEenidba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вишнёвый сад</title>
+      <link>http://tijanamarkovic.com/theatre/vi%C5%A1njik/</link>
+      <pubDate>Sun, 18 Jun 2017 19:34:38 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/vi%C5%A1njik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 10</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-10/</link>
+      <pubDate>Fri, 16 Jun 2017 16:42:01 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 19</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-21/</link>
+      <pubDate>Fri, 16 Jun 2017 16:40:38 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 15</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-15/</link>
+      <pubDate>Fri, 16 Jun 2017 16:39:51 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tijana markovic 7</title>
+      <link>http://tijanamarkovic.com/g1/tijana-markovic-7/</link>
+      <pubDate>Fri, 16 Jun 2017 16:39:13 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/tijana-markovic-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>right</title>
+      <link>http://tijanamarkovic.com/vita/right/</link>
+      <pubDate>Sat, 03 Jun 2017 16:06:11 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/vita/right/</guid>
+      <description>Образование:
+Диплом бакалавра актёрского искусства (BFA,2009) в классе профессора Јасны Джуричич, Академия искусств, Нови-Сад
+Диплом мастер актёрского искусства, Академия искусств, Нови-Сад
+Мастер-классы:
+ Мастер-класс - психодрама, методы работы (Томи Јанежич) “Шекспир и образы языка в театре (Ryszard Nieoczym) “Сила голоса” (Ryszard Nieoczym) “Тело и голос” (Denes Debrei)“ “Цирковые навыки” (Мира Беба Добркович)  Навыки: Акробатика, физический театр, фехтование, балет, пение, катание на лошадях, катание на коньках, лыжах, сценическиe борьбы, танец, разные виды спорта (легкая атлетика, дзюдо, баскетбол, волейбол, кикбоксинг, гимнастика), Водительские права</description>
+    </item>
+    
+    <item>
+      <title>left</title>
+      <link>http://tijanamarkovic.com/vita/left/</link>
+      <pubDate>Sat, 03 Jun 2017 16:06:06 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/vita/left/</guid>
+      <description>Языки: сербский, русский, английский, немножко испанский  Место рождения Рума, Сербия   Дата рождения: 11.02.1986.
+Высота: 170 цм
+Цвет глаз: коричнево-зеленыe
+Цвет волос: светло-коричневыe
+Высота голоса: альт</description>
+    </item>
+    
+    <item>
+      <title>Классовый враг</title>
+      <link>http://tijanamarkovic.com/theatre/klasni-neprijatelj/</link>
+      <pubDate>Sat, 03 Jun 2017 14:57:09 +0200</pubDate>
+      
+      <guid>http://tijanamarkovic.com/theatre/klasni-neprijatelj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link 4</title>
+      <link>http://tijanamarkovic.com/gallery/toma-nistor/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/gallery/toma-nistor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toma Nistor</title>
+      <link>http://tijanamarkovic.com/g1/toma-nistor/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/toma-nistor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tijanamarkovic.com/g1/hugo/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link 3</title>
+      <link>http://tijanamarkovic.com/gallery/hugo/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/gallery/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osprey</title>
+      <link>http://tijanamarkovic.com/g1/osprey/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/osprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempo centar - promo</title>
+      <link>http://tijanamarkovic.com/gallery/osprey/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/gallery/osprey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odeljenje - Ep 01</title>
+      <link>http://tijanamarkovic.com/gallery/rugged-fellows-guide/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/gallery/rugged-fellows-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rugged Fellows Guide</title>
+      <link>http://tijanamarkovic.com/g1/rugged-fellows-guide/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>http://tijanamarkovic.com/g1/rugged-fellows-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://tijanamarkovic.com/blog/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tijanamarkovic.com/blog/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://tijanamarkovic.com/blog/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tijanamarkovic.com/blog/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://tijanamarkovic.com/blog/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tijanamarkovic.com/blog/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+  </channel>
+</rss>
